@@ -1,2 +1,5 @@
-# sdchain-demo-Linkit
-This is an example of SDChain implemented using Linkit7688Duo+MLX90614
+## Introduction
+This is an [example](https://github.com/rkuo2000/sdchain) of SDChain implemented using Linkit7688Duo+MLX90614.  
+Many thanks to Richard for his contributions.
+## Download example
+git clone https://github.com/rkuo2000/sdchain
